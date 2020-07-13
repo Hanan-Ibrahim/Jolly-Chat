@@ -4,6 +4,7 @@ Jolly Chat is an internet-based instant messaging app. We utilized a service cal
  • GIF
 
  • Authentication </br>
-  <img src="Photos/snapshot.PNG" alt="3" width = 700px>
+  <img src="Photos/snapshot.PNG" alt="3" width = 700px> </br>
+  
   • Database </br>
 <img src="Photos/snapshot1.PNG" alt="3" width = 700px>
